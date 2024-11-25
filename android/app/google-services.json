@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824681022119",
+    "project_id": "crime-reporting-system1",
+    "storage_bucket": "crime-reporting-system1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824681022119:android:1f646ea3ba3285ea41d182",
+        "android_client_info": {
+          "package_name": "com.example.crime_reporting_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANTDA_K0od1gD4RcKL16QYxVsL-CaVPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
